@@ -8,6 +8,8 @@ Fiz o meu o projeto replicando o projeto apresentado em aula pelo Prof. Venilton
 Porém, fiz algumas alterações e também adicionei uma nova interação com o usuário.
 
 Link do projeto (Google Colab): https://colab.research.google.com/drive/1_EKOFfwRqEfqkQEEYl4ZQ0gHJvlKtBV1?usp=sharing
+
+O código do projeto também pode ser visualizado [neste repositório](virtual_assistant_bradesco_dio.ipynb).
 <br><br><br>
 
 
