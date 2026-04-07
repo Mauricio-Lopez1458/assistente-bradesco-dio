@@ -50,7 +50,7 @@ Fale em poucas palavras."
 
   Desse modo, o usuário terá um tratamento mais "humanizado" ao interagir com a assistente virtual.
 
-\*OBS.: o presente projeto tem por finalidade única o aprendizado e uso básico das ferramentas (tecnologias) utilizadas para realizá-lo. Em nenhum momento o projeto tem a pretensão de criar uma assistente virtual financeira de uso real.
+\*OBS.: _o presente projeto tem por finalidade única o aprendizado e uso básico das ferramentas (tecnologias) utilizadas para realizá-lo. Em nenhum momento o projeto tem a pretensão de criar uma assistente virtual financeira de uso real._
 
 
 
