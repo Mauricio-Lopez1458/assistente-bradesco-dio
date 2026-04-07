@@ -8,18 +8,21 @@ Fiz o meu o projeto replicando o projeto apresentado em aula pelo Prof. Venilton
 Porém, fiz algumas alterações e também adicionei uma nova interação com o usuário.
 
 Link do projeto (Google Colab): https://colab.research.google.com/drive/1_EKOFfwRqEfqkQEEYl4ZQ0gHJvlKtBV1?usp=sharing
+<br><br><br>
 
 
 ## 🎯 Objetivo
 
 O projeto visa utilizar, de maneira prática, as tecnologias **Speech-To-Text** e **Text-To-Speech** em interações por voz com o usuário.
+<br><br><br>
 
 ## 💻 Tecnologias Utilizadas
 
 - **Google Text-To-Speech (gTTS)** - converte texto em áudio.
 - **Whisper (OpenAI)** - sistema de reconhecimento automático de voz (ASR) que converte áudio em texto.
 - **Gemini** - API do Gemini, a Inteligência Artificial do Google. No projeto, irá responder à dúvida do usuário.
-- **Python e Javascript** - linguagens de programação. Python no Google Colab (praticamente todo o projeto) e Javascript apenas no utilitário de gravação de áudio do microfone do usuário. 
+- **Python e Javascript** - linguagens de programação. Python no Google Colab (praticamente todo o projeto) e Javascript apenas no utilitário de gravação de áudio do microfone do usuário.
+<br><br><br>
 
 
 ## ✨ Características
@@ -49,6 +52,7 @@ Sobre qual tipo de investimento você deseja informações?
 Fale em poucas palavras." 
 
   Desse modo, o usuário terá um tratamento mais "humanizado" ao interagir com a assistente virtual.
+  <br><br><br>
 
 \*OBS.: _o presente projeto tem por finalidade única o aprendizado e uso básico das ferramentas (tecnologias) utilizadas para realizá-lo. Em nenhum momento o projeto tem a pretensão de criar uma assistente virtual financeira de uso real._
 
